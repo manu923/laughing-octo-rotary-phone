@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  background-image: url("./Grossmacht.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 95vh;
+  text-align: center;
+}
+
+.top {
+  display: flex;
+  font-family: fantasy;
+  padding: 10px 50px 10px 50px;
+  margin: 20px 250px 20px 250px;
+  color: blue;
+}
+a {
+  color: yellow;
+}
+h2 {
+  color: red;
+}
+
+nav {
+  padding: 1px;
+  position: fixed;
+  top: 5px;
+  right: 5px;
+  left: 5px;
+}
+nav a {
+  color: blueviolet;
+}
